@@ -1,8 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Alex</h1>
 <h3 align="center">A passionate Engineer from Mexico city</h3>
+<h4 align="center">In addition to working in the field of research for the National Polytechnic Institute, I am currently a full stack development student, I plan to join the web development sector soon</h4>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexddks&label=Profile%20views&color=0e75b6&style=flat" alt="alexddks" /> </p>
-I am currently a full stack development student, I plan to join the web development sector soon.
+
 
 - 🌱 I’m currently learning **react, bootstrap, python and some frameworks to help me increase my skills**
 
