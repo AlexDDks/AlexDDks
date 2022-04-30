@@ -2,10 +2,11 @@
 <h3 align="center">A passionate Engineer from Mexico city</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexddks&label=Profile%20views&color=0e75b6&style=flat" alt="alexddks" /> </p>
+I am currently a full stack development student, I plan to join the web development sector soon.
 
-- 🌱 I’m currently learning **python and frameworks to help me increase my skills**
+- 🌱 I’m currently learning **react, bootstrap, python and some frameworks to help me increase my skills**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AlexDDks/portafolio](https://github.com/AlexDDks/portafolio)
+- 👨‍💻 All of my projects are available at [https://github.com/AlexDDks/portafolio](https://github.com/AlexDDks/portafolio), please check them
 
 - 💬 Ask me about **JavaScript, HTLM, CSS, Assembler, Ladder, Arduino**
 
