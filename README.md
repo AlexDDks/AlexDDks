@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **react, bootstrap, python and some frameworks to help me increase my skills**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AlexDDks/portafolio](https://github.com/AlexDDks/portafolio), please check them
+- 👨‍💻 All of my projects are available at [https://github.com/AlexDDks/briefcase](https://github.com/AlexDDks/briefcase), please check them
 
 - 💬 Ask me about **JavaScript, HTLM, CSS, Assembler, Ladder, Arduino**
 
