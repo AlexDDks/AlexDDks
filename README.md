@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Typescript, React, Python and about API's and some frameworks**
 
-- 👨‍💻 My briefcase is available at https://ddks-briefcase.herokuapp.com please check it
+- 👨‍💻 My briefcases are available at https://ddks-briefcase.herokuapp.com and https://briefcase-ecommerce.herokuapp.com/ please check them
 
 - 💬 Ask me about **JavaScript, HTLM, CSS, Assembler, Ladder, Arduino**
 
