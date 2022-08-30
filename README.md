@@ -10,7 +10,7 @@
 
 - 👨‍💻 My briefcases are available at https://ddks-briefcase.herokuapp.com and https://briefcase-ecommerce.herokuapp.com/ please check them
 
-- 💬 Ask me about **JavaScript, HTLM, CSS, Assembler, Ladder, Arduino**
+- 💬 Ask me about **JavaScript, Typescritp, HTLM, CSS, Assembler, Ladder, Arduino**
 
 - 📫 How to reach me **magarciaa92@gmail.com**
 
