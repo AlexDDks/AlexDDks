@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexddks&label=Profile%20views&color=0e75b6&style=flat" alt="alexddks" /> </p>
 
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 My briefcases are available at https://ddks-briefcase.herokuapp.com and https://briefcase-ecommerce.herokuapp.com/ please check them
 
-- 💬 Ask me about **JavaScript, Typescritp, HTLM, CSS, Assembler, Ladder, Arduino**
+- 💬 Ask me about **JavaScript, Typescritp, HTLM, CSS, C#, Assembler, Ladder, Arduino**
 
 - 📫 How to reach me **magarciaa92@gmail.com**
 
