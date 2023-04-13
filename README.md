@@ -1,16 +1,16 @@
 <h1 align="center">Hi there 👋, I'm Alex</h1>
 <h3 align="center">A passionate Engineer from Mexico city</h3>
-<h4 align="center">In addition to working in the field of research for the National Polytechnic Institute, I am currently a full stack development student, I plan to join the web development sector soon</h4>
+<h4 align="center">PhD student in Electronic Engineering and Professor of Full Stack Web Development</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexddks&label=Profile%20views&color=0e75b6&style=flat" alt="alexddks" /> </p>
 
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Sequelize**
 
 - 👨‍💻 My briefcases are available at https://ddks-briefcase.herokuapp.com and https://briefcase-ecommerce.herokuapp.com/ please check them
 
-- 💬 Ask me about **JavaScript, Typescritp, HTLM, CSS, C#, Assembler, Ladder, Arduino**
+- 💬 Ask me about **JavaScript, HTLM, CSS, C#, Assembler, Ladder, Arduino**
 
 - 📫 How to reach me **magarciaa92@gmail.com**
 
