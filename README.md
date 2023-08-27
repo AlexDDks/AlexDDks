@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexddks&label=Profile%20views&color=0e75b6&style=flat" alt="alexddks" /> </p>
 
 
-- 🌱 I’m currently learning **Sequelize**
+- 🌱 I’m currently learning **PHP and Laravel**
 
 - 👨‍💻 My briefcases are available at https://ddks-briefcase.herokuapp.com and https://briefcase-ecommerce.herokuapp.com/ please check them
 
