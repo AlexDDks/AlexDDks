@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **PHP and Laravel**
 
-- 👨‍💻 My briefcases are available at https://ddks-briefcase.herokuapp.com and https://briefcase-ecommerce.herokuapp.com/ please check them
-
 - 💬 Ask me about **JavaScript, HTLM, CSS, C#, Assembler, Ladder, Arduino**
 
 - 📫 How to reach me **magarciaa92@gmail.com**
