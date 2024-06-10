@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexddks&label=Profile%20views&color=0e75b6&style=flat" alt="alexddks" /> </p>
 
 
-- 🌱 I’m currently learning **PHP and Laravel**
+- 🌱 I’m currently learning **Python and Machine Learning**
 
-- 💬 Ask me about **JavaScript, HTLM, CSS, C#, Assembler, Ladder, Arduino**
+- 💬 Ask me about **Full Stack Web Development: Node/Express.js - Laravel**
 
 - 📫 How to reach me **magarciaa92@gmail.com**
 
