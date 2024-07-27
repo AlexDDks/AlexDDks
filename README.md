@@ -6,11 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexddks&label=Profile%20views&color=0e75b6&style=flat" alt="alexddks" /> </p>
 
 
-- 🌱 I’m currently learning **Python and Machine Learning**
+- 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 💬 Ask me about **Full Stack Web Development: Node/Express.js - Laravel**
+- 💬 Ask me about **Full Stack Web Development: Node/Express.js - Laravel and Software Engineering**
 
 - 📫 How to reach me **magarciaa92@gmail.com**
+
+- Please visit my Portfolio: **<a href="https://mgarciaa.nicedev90.pro/" target="blank">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
