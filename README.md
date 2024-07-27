@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **magarciaa92@gmail.com**
 
-- Please visit my Portfolio: **<a href="https://mgarciaa.nicedev90.pro/" target="blank">
+- Please visit my Portfolio: **<a href="https://mgarciaa.nicedev90.pro/" target="blank">**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
