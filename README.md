@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Alex</h1>
 <h3 align="center">A passionate Engineer from Mexico city</h3>
-<h4 align="center">PhD in Electronic Engineering and Full Stack Web Development Instructor</h4>
+<h4 align="center">M.Sc. in Electronic Engineering and Full Stack Web Development Instructor</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexddks&label=Profile%20views&color=0e75b6&style=flat" alt="alexddks" /> </p>
